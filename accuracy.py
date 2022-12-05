@@ -49,5 +49,5 @@ if img1 and img2:
         st.image(diff)
 
 
-    cv2.waitKey(0)
+#    cv2.waitKey(0)
     cv2.destroyAllWindows()
